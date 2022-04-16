@@ -1,1 +1,1 @@
-# pixeltweet.github.com
+# pixeltweet.github.io
